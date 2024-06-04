@@ -32,3 +32,12 @@ Vá para a seção [estrutura do curso](./lessons/_course-structure_.md).
 ___
 
 Este é mais um curso da [**Escola Talking About Testing**](https://udemy.com/user/walmyr).
+Criar cypress.env.json e colar 
+{
+    {
+    "user_name": "root",
+    "user_password": "hugo7413695",
+    "gitlab_access_token": ""
+}
+
+}
